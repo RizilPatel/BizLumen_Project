@@ -9,20 +9,16 @@ You can manage orders, employees, customers, products, payments and payouts in t
 ## Screenshots 
 
 <div align="center">
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business1.png" width="600" alt="photo1"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business2.png" width="600" alt="photo2"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business3.png" width="600" alt="photo3"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business4.png" width="600" alt="photo4"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business5.png" width="600" alt="photo5"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business6.png" width="600" alt="photo6"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business7.png" width="600" alt="photo7"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business8.png" width="600" alt="photo8"/>
-<img src="https://github.com/ABDULKARIMALBAIK/business_light/raw/main/screenshots/business10.png" width="600" alt="photo9"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business1.png" width="600" alt="photo1"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business2.png" width="600" alt="photo2"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business3.png" width="600" alt="photo3"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business4.png" width="600" alt="photo4"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business5.png" width="600" alt="photo5"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business6.png" width="600" alt="photo6"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business7.png" width="600" alt="photo7"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business8.png" width="600" alt="photo8"/>
+<img src="https://github.com/RizilPatel/BizLumen_Project/raw/main/screenshots/business10.png" width="600" alt="photo9"/>
 </div>
-
-
-DO you need see more ?  
-[SEE MORE...](https://github.com/ABDULKARIMALBAIK/business_light/tree/main/screenshots)
 
 
 # Awesome Features
