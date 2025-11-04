@@ -4,16 +4,6 @@ Flutter windows app help small business to manage their orders and employees wit
 
 You can manage orders, employees, customers, products, payments and payouts in their current business.      
 
-Features will be added in the future (Check CHANGELOG.md file) .  
-
-You can install the app by setup in the root project 💖 .  
-[Setup...](https://github.com/ABDULKARIMALBAIK/business_light/tree/main/setup)
-
-
-![check_main](https://img.shields.io/github/checks-status/ABDULKARIMALBAIK/business_light/main?color=blue&label=check_main&logo=github&style=flat-square)
-![license](https://img.shields.io/github/license/ABDULKARIMALBAIK/business_light?color=yellow&label=license&logo=github&style=flat-square)
-![repo_size](https://img.shields.io/github/languages/code-size/ABDULKARIMALBAIK/business_light?color=red&label=repo_size&logo=github&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/abdalka10233202)
 
 
 ## Screenshots 
